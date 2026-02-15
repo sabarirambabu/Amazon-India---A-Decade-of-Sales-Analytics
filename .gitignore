@@ -1,0 +1,7 @@
+# Tableau files
+*.twbx
+*.twb  # Optional: but recommended to ignore live Tableau workbooks
+*.csv
+
+/DashBoard Images/*.png
+
